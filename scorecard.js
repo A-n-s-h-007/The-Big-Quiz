@@ -24,6 +24,6 @@ function check(){
     }
 }
 function gotoinstruction(){
-    window.location.href="instruction.html"
+    window.location.href="Instruction.html"
 }
 check()

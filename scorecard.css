@@ -42,8 +42,8 @@ body{
 
 #heading {
     text-align: center;
-    margin: 1vw;
-    font-size: 50px;
+    margin: 0.2vw;
+    font-size: 40px;
 }
 
 .box {
@@ -62,7 +62,7 @@ body{
 #scoretxt {
     display: inline-block;
     padding: 15px 20px;
-    background-color: #d84b46;;
+    background-color: #d84b46;
     color: #ffffff;
     font-size: 40px;
     font-weight: bold;

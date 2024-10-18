@@ -26,5 +26,5 @@ function signin() {
 }
 
 function gotoHome(){
-    window.location.href="Home.html"
+    window.location.href="index.html"
 }
